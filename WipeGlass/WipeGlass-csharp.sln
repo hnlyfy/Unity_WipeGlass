@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F9B13933-4373-F1EC-BFDA-1CA14192086F}") = "WipeGlass", "Assembly-CSharp-vs.csproj", "{B675D4AE-2735-D182-6131-3BC037F64559}"
+EndProject
+Project("{F9B13933-4373-F1EC-BFDA-1CA14192086F}") = "WipeGlass", "Assembly-CSharp-Editor-vs.csproj", "{3371F73D-1D5B-D886-46C5-229AB9487136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B675D4AE-2735-D182-6131-3BC037F64559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B675D4AE-2735-D182-6131-3BC037F64559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B675D4AE-2735-D182-6131-3BC037F64559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B675D4AE-2735-D182-6131-3BC037F64559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3371F73D-1D5B-D886-46C5-229AB9487136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3371F73D-1D5B-D886-46C5-229AB9487136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3371F73D-1D5B-D886-46C5-229AB9487136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3371F73D-1D5B-D886-46C5-229AB9487136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+														GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabsToSpaces = False
+		$3.EolMarker = Unix
+		$3.inheritsSet = VisualStudio
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
